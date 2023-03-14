@@ -1,0 +1,14 @@
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\obj\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.csprojAssemblyReference.cache
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\obj\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.AssemblyInfoInputs.cache
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\obj\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.AssemblyInfo.cs
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.exe
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.deps.json
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.runtimeconfig.json
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.runtimeconfig.dev.json
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.dll
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.pdb
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzz.dll
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\bin\Debug\netcoreapp3.1\TwistedFizzBuzz.pdb
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\obj\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.csproj.CopyComplete
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\obj\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.dll
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzzSolver\obj\Debug\netcoreapp3.1\TwistedFizzBuzzSolver.pdb

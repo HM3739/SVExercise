@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TwistedFizzBuzzSolver/1.0.0": {
+        "dependencies": {
+          "TwistedFizzBuzz": "1.0.0"
+        },
+        "runtime": {
+          "TwistedFizzBuzzSolver.dll": {}
+        }
+      },
+      "TwistedFizzBuzz/1.0.0": {
+        "runtime": {
+          "TwistedFizzBuzz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwistedFizzBuzzSolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TwistedFizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

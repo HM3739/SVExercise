@@ -1,0 +1,8 @@
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\netstandard2.0\TwistedFizzBuzz.deps.json
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\netstandard2.0\TwistedFizzBuzz.dll
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\netstandard2.0\TwistedFizzBuzz.pdb
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\netstandard2.0\TwistedFizzBuzz.csprojAssemblyReference.cache
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\netstandard2.0\TwistedFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\netstandard2.0\TwistedFizzBuzz.AssemblyInfo.cs
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\netstandard2.0\TwistedFizzBuzz.dll
+C:\Users\Hannah\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\netstandard2.0\TwistedFizzBuzz.pdb
